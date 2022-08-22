@@ -2,6 +2,13 @@
   text-align: center;
 }
 
+.nav{
+  display: flex;
+}
+.header, .footer{
+  border: 5px solid rgb(123, 182, 123);
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
