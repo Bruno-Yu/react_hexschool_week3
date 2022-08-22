@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react_hexschool_week3/static/css/main.0822bc76.css",
+    "main.js": "/react_hexschool_week3/static/js/main.5b7679dd.js",
+    "static/js/787.28cb0dcd.chunk.js": "/react_hexschool_week3/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/react_hexschool_week3/index.html",
+    "main.0822bc76.css.map": "/react_hexschool_week3/static/css/main.0822bc76.css.map",
+    "main.5b7679dd.js.map": "/react_hexschool_week3/static/js/main.5b7679dd.js.map",
+    "787.28cb0dcd.chunk.js.map": "/react_hexschool_week3/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0822bc76.css",
+    "static/js/main.5b7679dd.js"
+  ]
+}
